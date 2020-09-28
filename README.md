@@ -18,7 +18,7 @@ https://github.com/vetalm1/JS2/tree/master/less7
 + функции (DRY, typehinting, аргументы/возвращаемые значения, рекурсия),
 + работа с файлами,
 + работа с формами,
-+ работа с БД (без ООП),
++ работа с БД MySql (без ООП),
 + сессии, куки,
 + ООП
 + Объекты/классы
@@ -30,12 +30,24 @@ https://github.com/vetalm1/JS2/tree/master/less7
 + Паттерны (ознакомительные знания, реализовано - синглтон, фабричный метод))
 
 - Yii2
-+ 
++ Контроллеры, работа с представлениями
++ Работа с БД, модели-activeRecord, миграции
++ Поведения, виджеты
++ Gii
++ Кеширование,
++ Консольные команды ???
++ Генерация url, ЧПУ ???
++
+
+- Laravel
++
++
++
++
 +
 +
 +
 
-- Laravel
 - Окружение для разработки (OpenServer, Vagrant, PHPStorm, в планах docker),
 - GIT (init, add, commit, push, branch, pullRequest)
 - Composer (ознакомительные знания, composer.json/composer.lock)
