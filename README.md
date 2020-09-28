@@ -24,12 +24,18 @@ https://github.com/vetalm1/JS2/tree/master/less7
 + Объекты/классы
 + Интерфейсы
 + MVC
-+ PDO ORM
++ PDO ORM (activ record, eloquent, в планах - doctrine)
 + конфиги/логи ???
-+ SOLID, Паттерны
-+ Кэширование
++ SOLID, 
++ Паттерны (ознакомительные знания, реализовано - синглтон, фабричный метод))
+
 - Yii2
++ 
++
++
++
+
 - Laravel
-- Окружение для разработки (OpenServer, Vagrant, PHPStorm),
+- Окружение для разработки (OpenServer, Vagrant, PHPStorm, в планах docker),
 - GIT (init, add, commit, push, branch, pullRequest)
 - Composer (ознакомительные знания, composer.json/composer.lock)
