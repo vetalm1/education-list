@@ -37,16 +37,26 @@ https://github.com/vetalm1/JS2/tree/master/less7
 + Кеширование,
 + Консольные команды ???
 + Генерация url, ЧПУ ???
-+
 
 - Laravel
-+ окружение (homestead/vagrant)
++ Окружение (homestead/vagrant)
 + Шаблонизатор Blade
 + Artisan, миграции, фабрики, сиды
-+ Eloquent ORM, связи в моделях, database designer
++ Eloquent ORM, связи в моделях, dbdiagram.io
++ Маршруты, представления, контроллеры
++ DI
++ Авторизация/аутентификация/регистрация
++ Тестирование (feature, )
++ Логирование
++ Посредники middleware
++ Кеширование (redis)
++ Пакеты, (размещение на packagist.org)
++ Команды 
++ Очереди (реализация через БД, в планах RabbitMq)
++ Контракты, фасады ???
++ Развертывание Envoyer
 +
-+
-+
+
 
 - Окружение для разработки (OpenServer, Vagrant, PHPStorm, в планах docker),
 - GIT (init, add, commit, push, branch, pullRequest)
