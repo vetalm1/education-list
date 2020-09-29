@@ -40,10 +40,10 @@ https://github.com/vetalm1/JS2/tree/master/less7
 +
 
 - Laravel
-+
-+
-+
-+
++ окружение (homestead/vagrant)
++ Шаблонизатор Blade
++ Artisan, миграции, фабрики, сиды
++ Eloquent ORM, связи в моделях, database designer
 +
 +
 +
