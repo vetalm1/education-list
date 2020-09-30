@@ -1,15 +1,15 @@
-# education-list
+# <h5>education-list</h5>
 
-- гипертекстовая разметкк и ее стилизация (без препроцессоров),
+- <h5>гипертекстовая разметка и ее стилизация (без препроцессоров),
 Пример кода и визуализация https://github.com/vetalm1/vetalm1.github.io
 
-- Javascript
+- <h5>Javascript</h5>
 + переменные, типы, ветвления, циклы, массивы, функции, объекты, события, замыкания
 + ООП, асинхронные запросы, регулярные выражения,
 + также познакомился с Vue.js и node.js
 https://github.com/vetalm1/JS2/tree/master/less7
 
-- PHP
+- <h5>PHP</h5>
 + принцип работы сайта, переменные(типы, приведение, преобазование),
 + структуры данных (стек, очередь, хэш-таблица),
 + ветвления (if/elseIf, switch, тернарный оператор, empty/isset, ===)
@@ -29,7 +29,7 @@ https://github.com/vetalm1/JS2/tree/master/less7
 + SOLID, 
 + Паттерны (ознакомительные знания, реализовано - синглтон, фабричный метод))
 
-- Yii2
+- <h5>Yii2</h5>
 + Контроллеры, работа с представлениями
 + Работа с БД, модели-activeRecord, миграции
 + Поведения, виджеты
@@ -38,7 +38,7 @@ https://github.com/vetalm1/JS2/tree/master/less7
 + Консольные команды ???
 + Генерация url, ЧПУ ???
 
-- Laravel
+- <h5>Laravel</h5>
 + Окружение (homestead/vagrant)
 + Шаблонизатор Blade
 + Artisan, миграции, фабрики, сиды
@@ -57,12 +57,13 @@ https://github.com/vetalm1/JS2/tree/master/less7
 + Развертывание Envoyer
 + Scheduler + cron
 + API CRUD
+
 + Ознакомлен но нет практического применения:
-    Полнотекстовый поиск scout + elasticsearch(babenkoivan driver)
-    Фрейм Lumen
-    Passport (OAuth 2.0) + механизм регистрации через соцсети
-    Тестирование api
-    ORM Doctrine
+    + Полнотекстовый поиск scout + elasticsearch(babenkoivan driver),
+    + Фрейм Lumen,
+    + Passport (OAuth 2.0) + механизм регистрации через соцсети,
+    + Тестирование api,
+    + ORM Doctrine,
     
 
 - Окружение для разработки (OpenServer, Vagrant, PHPStorm, в планах docker),
