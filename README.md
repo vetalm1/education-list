@@ -7,6 +7,7 @@
 + переменные, типы, ветвления, циклы, массивы, функции, объекты, события, замыкания
 + ООП, асинхронные запросы, регулярные выражения,
 + также познакомился с Vue.js и node.js
+Пример кода:
 https://github.com/vetalm1/JS2/tree/master/less7
 
 - <h5>PHP</h5>
@@ -25,7 +26,7 @@ https://github.com/vetalm1/JS2/tree/master/less7
 + Интерфейсы
 + MVC
 + PDO ORM ???
-+ конфиги/логи ???
++ конфиги ???
 + SOLID, 
 + Паттерны (ознакомительные знания, реализовано - синглтон, фабричный метод))
 
@@ -66,6 +67,6 @@ https://github.com/vetalm1/JS2/tree/master/less7
     + ORM Doctrine,
     
 
-- Окружение для разработки (OpenServer, Vagrant, PHPStorm, в планах docker),
-- GIT (init, add, commit, push, branch, pullRequest)
-- Composer (ознакомительные знания, composer.json/composer.lock)
+- <h5>Окружение для разработки</h5> (OpenServer, Vagrant, PHPStorm, в планах docker),
+- <h5>GIT</h5> (init, add, commit, push, branch, pullRequest)
+- <h5>Composer</h5> (ознакомительные знания, composer.json/composer.lock)
