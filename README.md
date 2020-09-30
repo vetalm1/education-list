@@ -24,7 +24,7 @@ https://github.com/vetalm1/JS2/tree/master/less7
 + Объекты/классы
 + Интерфейсы
 + MVC
-+ PDO ORM (activ record, eloquent, в планах - doctrine)
++ PDO ORM ???
 + конфиги/логи ???
 + SOLID, 
 + Паттерны (ознакомительные знания, реализовано - синглтон, фабричный метод))
@@ -42,7 +42,7 @@ https://github.com/vetalm1/JS2/tree/master/less7
 + Окружение (homestead/vagrant)
 + Шаблонизатор Blade
 + Artisan, миграции, фабрики, сиды
-+ Eloquent ORM, связи в моделях, dbdiagram.io
++ Eloquent ORM, связи в моделях, dbdiagram.io визуальная схема базы
 + Маршруты, представления, контроллеры
 + DI
 + Авторизация/аутентификация/регистрация
@@ -55,8 +55,15 @@ https://github.com/vetalm1/JS2/tree/master/less7
 + Очереди (реализация через БД, в планах RabbitMq)
 + Контракты, фасады ???
 + Развертывание Envoyer
-+
-
++ Scheduler + cron
++ API CRUD
++ Ознакомлен но нет практического применения:
+    Полнотекстовый поиск scout + elasticsearch(babenkoivan driver)
+    Фрейм Lumen
+    Passport (OAuth 2.0) + механизм регистрации через соцсети
+    Тестирование api
+    ORM Doctrine
+    
 
 - Окружение для разработки (OpenServer, Vagrant, PHPStorm, в планах docker),
 - GIT (init, add, commit, push, branch, pullRequest)
