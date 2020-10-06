@@ -35,6 +35,7 @@
 - Gii
 - Кеширование,
 - Консольные команды ...
+- https://github.com/vetalm1/yii2.int-mag
 
 # <h4>Laravel</h4>
 - Окружение (homestead/vagrant)
@@ -54,6 +55,7 @@
 - Развертывание Envoyer
 - Scheduler + cron
 - API CRUD
+- https://github.com/vetalm1/Laravel
 
 - Ознакомлен но нет практического применения:
     - Полнотекстовый поиск scout + elasticsearch(babenkoivan driver),
