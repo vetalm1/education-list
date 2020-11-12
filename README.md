@@ -65,6 +65,6 @@
     - ORM Doctrine,
     
 
-+ <h4>Окружение для разработки</h4> (Vagrant, PHPStorm, Docker, OpenServer),
++ <h4>Окружение для разработки</h4> (Vagrant, PHPStorm, Docker, Postman, OpenServer),
 + <h4>GIT</h4> (init, add, commit, push, branch, pullRequest)
 + <h4>Composer</h4> (install/update)
