@@ -38,7 +38,7 @@
 - https://github.com/vetalm1/yii2.int-mag
 
 # <h4>Laravel</h4>
-- Окружение (homestead/vagrant)
+- Окружение (homestead/vagrant, docker/laradocker)
 - Шаблонизатор Blade
 - Artisan, миграции, фабрики, сиды
 - Eloquent, связи в моделях, (dbdiagram.io)
@@ -65,6 +65,6 @@
     - ORM Doctrine,
     
 
-+ <h4>Окружение для разработки</h4> (OpenServer, Vagrant, PHPStorm, в планах docker),
++ <h4>Окружение для разработки</h4> (Vagrant, PHPStorm, Docker, OpenServer),
 + <h4>GIT</h4> (init, add, commit, push, branch, pullRequest)
 + <h4>Composer</h4> (install/update)
