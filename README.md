@@ -18,7 +18,7 @@
   - функции (DRY, typehinting, аргументы/возвращаемые значения, рекурсия),
   - работа с файлами, конфиги
   - работа с формами,
-  - работа с БД MySql (не сложные запросы),
+  - работа с БД MySql, postgres ,
   - сессии, куки,
   - ООП
   - Объекты/классы
@@ -28,43 +28,39 @@
   - SOLID, 
   - Паттерны (ознакомительные знания)
 
-# <h4>Yii2</h4>
-- Контроллеры, работа с представлениями
-- Работа с БД, модели-activeRecord, миграции
-- Поведения, виджеты
-- Gii
-- Кеширование,
-- Консольные команды ...
-- https://github.com/vetalm1/yii2.int-mag
-
 # <h4>Laravel</h4>
-- Окружение (homestead/vagrant, docker/laradocker)
+- Окружение (homestead/vagrant, docker)
 - Шаблонизатор Blade
 - Artisan, миграции, фабрики, сиды
-- Eloquent, связи в моделях, (dbdiagram.io)
-- Маршруты, представления, контроллеры
+- Eloquent, связи,
+- Маршруты, представления, контроллеры, ресурсы
 - DI
-- Авторизация/аутентификация/регистрация
+- Авторизация/аутентификация/регистрация/валидация
 - Тестирование (feature)
 - Логирование
 - Посредники middleware
 - Кеширование (redis)
 - Пакеты, (размещение на packagist.org)
 - Команды 
-- Очереди (реализация через БД, в планах RabbitMq)
-- Развертывание Envoyer
+- Очереди (реализация через БД, redis)
+- Развертывание Envoyer,
 - Scheduler + cron
 - API CRUD
+- Админки Nova, BackPack
+- Поисковые движки Meilisearch, ES, Postgres(встроенный)
+- Интеграции с разными api сервисами (СМС, Доставки, Онлайн платежи, Битрикс, Yandex) Stripe, Vonage, 1С(разные продукты/конфигурации),
+- данные json/xml
+- CloudFlare
 - https://github.com/vetalm1/Laravel
 
-- Ознакомлен но нет практического применения:
-    - Полнотекстовый поиск scout + elasticsearch(babenkoivan driver),
-    - Фрейм Lumen,
-    - Passport (OAuth 2.0) + механизм регистрации через соцсети,
-    - Тестирование api,
-    - ORM Doctrine,
-    
+# <h4>Symfony</h4>
+- Шаблонизатор Twig
+- миграции,
+- Doctrine, связи,
+- Маршруты, представления, контроллеры, entity, repository, form type
+- DI
+- Команды 
 
-+ <h4>Окружение для разработки</h4> (Vagrant, PHPStorm, Docker, Postman, OpenServer),
++ <h4>Окружение для разработки</h4> (PHPStorm, Docker, Postman),
 + <h4>GIT</h4> (init, add, commit, push, branch, pullRequest)
 + <h4>Composer</h4> (install/update)
