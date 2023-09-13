@@ -46,6 +46,7 @@
 - Развертывание Envoyer,
 - Scheduler + cron
 - API CRUD
+- Swagger
 - Админки Nova, BackPack
 - Поисковые движки Meilisearch, ES, Postgres(встроенный)
 - Интеграции с разными api сервисами (СМС, Доставки, Онлайн платежи, Битрикс, Yandex) Stripe, Vonage, 1С(разные продукты/конфигурации),
